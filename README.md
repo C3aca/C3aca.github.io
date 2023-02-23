@@ -4,6 +4,8 @@
 
 ## V0.0
 
+> [V0.0.7](https://scratch.mit.edu/projects/808752586/) (Added tile rotation)
+
 > [V0.0.6](https://scratch.mit.edu/projects/808215978/) (Added the toolbar)
 
 > [V0.0.5](https://scratch.mit.edu/projects/807863095/) (Tweaked the conveyor placement system)
