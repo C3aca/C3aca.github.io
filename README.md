@@ -1,2 +1,2 @@
 # Projects
-> [Plants and Purges](C3aca.github.io/plants-and-purges)
+> [Plants and Purges](c3aca.github.io/plants-and-purges/)
