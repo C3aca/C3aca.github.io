@@ -1,6 +1,6 @@
 
 # Projects
 ## In Progress
-> get out
+> [Plants and Purges](/plants-and-purges/)
 
 
